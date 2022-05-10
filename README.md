@@ -1,6 +1,8 @@
 # Battleship
 
-You should write a simple Battleship game. This game is played on a 6x6 grid, onto which player 1 places 3 ships, which player 2 attempts to find by guessing locations. Player 2 has 10 guesses to hit all 3 squares occupied by the 3 ships. If he hits all 3 squares before running out of guesses, he wins; if he runs out of guesses he loses.
+You should write a simple Battleship game. This game is played on a 6x6 grid, onto which player 1 places 3 ships, 
+which player 2 attempts to find by guessing locations. Player 2 has 10 guesses to hit all 3 squares occupied by the 3 ships. 
+If he hits all 3 squares before running out of guesses, he wins; if he runs out of guesses he loses.
 
 Squares on the grid are referred to by a letter for the row and a number for the column, like the following:
 
